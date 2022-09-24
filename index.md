@@ -1,5 +1,3 @@
-# A-Chiez Pin’in
-
 **A-Chiez Pin’in** (阿傑拼音), is a romanization system for Standard Mandarin Chinese. The system is based on Taiwanese Mandarin but it is also suitable for most other Standard Mandarin varieties. It was created by Joe Chrongx, a nobody on the internet. The main goal is to make romanization for Taiwanese Mandarin more phonetic.
 
 ## Initials
