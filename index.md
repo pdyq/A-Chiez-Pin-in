@@ -1,4 +1,4 @@
-**A-Chiez Phin’in** (阿傑拼音), is a romanization system for Standard Mandarin Chinese. The system is based on Taiwanese Mandarin but it is also suitable for most other Standard Mandarin varieties. It was created by Joe Chrongx, a nobody on the internet. The main goal is to make romanization for Taiwanese Mandarin more phonetic.
+**A-Chiez Phin’in** (阿傑拼音), is a romanization system for Standard Mandarin Chinese. The system is based on Taiwanese Mandarin but it is also suitable for most other Standard Mandarin varieties. It was created by Yusuf Chrongx, a nobody on the internet. The main goal is to make romanization for Taiwanese Mandarin more phonetic.
 
 ## Initials
 
@@ -32,7 +32,7 @@ The finals include 3 medials, 8 vowels and 3 endings. Unlike Pinyin, You can sta
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ø |  | a (ㄚ a) | oo (ㄛ o) | o (ㄜ e) | e (ㄝ ê) | ai (ㄞ ai) | ei (ㄟ ei) | au (ㄠ ao) | oou (ㄡ ou) |  | an (ㄢ an) | en (ㄣ en) |  |  | ang (ㄤ ang) | oong (ㄨㄥ ong) | ong (ㄥ ong) |
 | i | i (ㄧ i) | ia (ㄧㄚ ia) |  |  | ie (ㄧㄝ ie) |  |  | iau (ㄧㄠ iao) | ioou (ㄧㄡ iu) | in (ㄧㄣ in) |  |  | ien (ㄧㄢ ian) | ing (ㄧㄥ ing) | iang (ㄧㄤ iang) | iong (ㄩㄥ iong) |  |
-| u | u (ㄨ u) | ua (ㄨㄚ ua) | uoo (ㄨㄛ uo) |  |  | uai (ㄨㄞ uai) | uei (ㄨㄟ ui) |  |  |  | uan (ㄨㄢ uan) | uen (ㄨㄣ uen) |  |  | uang (ㄨㄤ uang) | [2] |  |
+| u | u (ㄨ u) | ua (ㄨㄚ ua) | uoo (ㄨㄛ uo) |  |  | uai (ㄨㄞ uai) | uei (ㄨㄟ ui) |  |  |  | uan (ㄨㄢ uan) | uon (ㄨㄣ uen) |  |  | uang (ㄨㄤ uang) | [2] |  |
 | y | y (ㄩ ü) |  |  |  | ye (ㄩㄝ üe) |  |  |  |  | yn (ㄩㄣ ün) | yan (ㄩㄢ üan) |  |  |  |  |  |  |
 
 ## Tone marking
@@ -69,7 +69,7 @@ Chia 嘉 + Ix 義 = Chia’ix or ChiaIx (嘉義)
 
 > 人人生而自由，在尊嚴和權利上一律平等。他們賦有理性和良心，並應以兄弟關係的精神相對待。
 
-> Renz renz srong orz zx iouz, chaix chuon ianz hanx chhyanz lix srangx iz chhiex phingz tongv. Tha monz fux iouv liv singx hanx liangz sin, pingx ing iv sioong tix kuan si tom ching sronz siang tueix taix.
+> Ronz ronz srong orz zx iouz, chaix chuon ianz hanx chhyanz lix srangx iz chhiex phingz tongv. Tha monz fux iouv liv singx hanx liangz sin, pingx ing iv sioong tix kuan si tom ching sronz siang tueix taix.
 
 
 
