@@ -69,7 +69,7 @@ Chia 嘉 + Ix 義 = Chia’ix or ChiaIx (嘉義)
 
 > 人人生而自由，在尊嚴和權利上一律平等。他們賦有理性和良心，並應以兄弟關係的精神相對待。
 
-> Ronz ronz srong orz zx iouz, chaix chuon ianz hanx chhyanz lix srangx iz chhiex phingz tongv. Tha monz fux iouv liv singx hanx liangz sin, pingx ing iv sioong tix kuan si tom ching sronz siang tueix taix.
+> Ronz ronz srong orz chx iouz, chaix chuon ianz hanx chhyanz lix srangx iz chhiex phingz tongv. Tha monz fux iouv liv singx hanx liangz sin, pingx ing iv sioong tix kuan si tom ching sronz siang tueix taix.
 
 
 
